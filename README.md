@@ -1,6 +1,6 @@
 # Real-Estate-price-predictions
 
-this project includes:
+This project includes:
 1. Data cleaning
 2. Data visualisation
 3. EDA (exploratory data analysis)
