@@ -13,3 +13,4 @@ Summary of the project.
 This model predicts the prices of real estate on the basis of some of the attributes of the property. like size, area, parking etc 
 once these inputs are given or inserted in, the model gives out a price prediction on the basis of those attributs inserted this is a very basic model and 
 very easy to use.
+You can check out the code along with comments and steps to understand the code better and what it does. 
